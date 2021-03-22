@@ -23,10 +23,13 @@ Here are some ideas to get you started:
     <tr><img src=https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white></tr>
     <tr><img src=https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3></tr>
  </td>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
+ <td>
+    <tr><img src=https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap></tr>
+    <tr><img src=https://img.shields.io/badge/-Typescript-red?style=flat&logo=typescript></tr>
+    <tr><img src=https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript></tr>
+    <tr><img src=https://img.shields.io/badge/-Ionic-white?style=flat&logo=Ionic></tr>
+    <tr><img src=https://img.shields.io/badge/-React-blue?style=flat&logo=react></tr>
+ </td>
 </table>
 
  - Ferramentas que utilizo: 
