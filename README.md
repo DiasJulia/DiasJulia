@@ -1,5 +1,6 @@
 ### Olá 👋
- - Entre em contato: [![E-mail](https://img.shields.io/badge/-julia@orditi.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:julia@orditi.com.br)](mailto:julia@orditi.com.br "E-mail")
+ - Entre em contato: 
+ [![E-mail](https://img.shields.io/badge/-julia@orditi.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:julia@orditi.com.br)](mailto:julia@orditi.com.br "E-mail")
  
  - Algumas ferramentas que utilizo: 
      - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
