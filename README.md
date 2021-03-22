@@ -1,6 +1,10 @@
 ### Olá 👋
-
-
+ - Entre em contato:
+     - Email:
+     - Telegram:
+     - LinkedIn:
+     - Instagram:
+ 
  - Ferramentas que utilizo: 
      - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
      - ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP) 
