@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3) 
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap) 
 ![Leaflet](https://img.shields.io/badge/-Leaflet-green?style=flat&logo=leaflet) 
-![React](https://img.shields.io/badge/-Leaflet-green?style=flat&logo=leaflet) 
+![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react) 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)
