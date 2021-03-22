@@ -1,5 +1,5 @@
 ### Olá 👋
- - Entre em contato: 
+ - Entre em contato: <br>
  [![E-mail](https://img.shields.io/badge/-julia@orditi.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:julia@orditi.com.br)](mailto:julia@orditi.com.br "E-mail")
  
  - Algumas ferramentas que utilizo: 
