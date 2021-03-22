@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 -->
 
 <table border="0">
- <tr>
-    <td><img src=https://img.shields.io/badge/-Python-black?style=flat&logo=python></td>
-    <td><img src=https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP></td>
-    <td><img src=https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white></td>
-    <td><img src=https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white></td>
-    <td><img src=https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3></td>
- </tr>
+ <td>
+    <tr><img src=https://img.shields.io/badge/-Python-black?style=flat&logo=python></tr>
+    <tr><img src=https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP></tr>
+    <tr><img src=https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white></tr>
+    <tr><img src=https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white></tr>
+    <tr><img src=https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3></tr>
+ </td>
  <tr>
     <td>Lorem ipsum ...</td>
     <td>Lorem ipsum ...</td>
