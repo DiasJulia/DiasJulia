@@ -3,7 +3,7 @@
      - [![E-mail](https://img.shields.io/badge/-julia@orditi.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:julia@orditi.com.br)](mailto:julia@orditi.com.br "E-mail")
      - ![Instagram](https://img.shields.io/badge/-diasde_ju-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/diasde_ju/)
  
- - Ferramentas que utilizo: 
+ - Algumas ferramentas que utilizo: 
      - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
      - ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP) 
      - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white)
