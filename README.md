@@ -3,7 +3,7 @@
      - Email:
      - Telegram:
      - LinkedIn:
-     - Instagram: [![Instagram](https://img.shields.io/badge/-diasde_ju-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/diasde_ju/)]
+     - Instagram: ![Instagram](https://img.shields.io/badge/-diasde_ju-purple?style=flat&logo=instagram&logoColor=white&link=https://instagram.com/diasde_ju/)
  
  - Ferramentas que utilizo: 
      - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
