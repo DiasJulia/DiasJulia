@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 👋
 
 <!--
 **DiasJulia/DiasJulia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- - 
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+ - Ferramentas que utilizo: 
+     - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
+
 
 ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white) 
