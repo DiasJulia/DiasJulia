@@ -1,27 +1,5 @@
 ### Olá 👋
 
-<table border="0">
- <tr>
-    <td><img src=https://img.shields.io/badge/-Python-black?style=flat&logo=python></td>
-    <td><img src=https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP></td>
- </tr>
- <tr>
-    <td><img src=https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white></td>
-    <td><img src=https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white></td>
- </tr>
- <tr>
-    <tr><img src=https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap></tr>
-    <tr><img src=https://img.shields.io/badge/-Typescript-red?style=flat&logo=typescript></tr>
- </tr>
- <tr>
-    <td><img src=https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript></td>
-    <td><img src=https://img.shields.io/badge/-Ionic-white?style=flat&logo=Ionic></td>
- </tr>
- <tr>
-    <tr><img src=https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3></td>
-    <td><img src=https://img.shields.io/badge/-React-blue?style=flat&logo=react></td>
- </tr>
-</table>
 
  - Ferramentas que utilizo: 
      - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
