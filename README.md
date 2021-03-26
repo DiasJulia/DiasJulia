@@ -1,17 +1,9 @@
-### Olá 👋
- - Entre em contato: <br>
- [![E-mail](https://img.shields.io/badge/-julia@orditi.com.br-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:julia@orditi.com.br)](mailto:julia@orditi.com.br "E-mail")
- 
- - Algumas ferramentas que utilizo: 
-     - ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)
-     - ![PHP](https://img.shields.io/badge/-PHP-563D7C?style=flat&logo=PHP) 
-     - ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat&logo=MySQL&logoColor=white)
-     - ![HTML 5](https://img.shields.io/badge/-HTML%205-E34F26?style=flat&logo=HTML5&logoColor=white)
-     - ![CSS 3](https://img.shields.io/badge/-CSS%203-1572B6?style=flat&logo=CSS3) 
-     - ![Bootstrap](https://img.shields.io/badge/-Bootstrap-purple?style=flat&logo=bootstrap)
-     - ![Typescript](https://img.shields.io/badge/-Typescript-red?style=flat&logo=typescript) 
-     - ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=JavaScript)
-     - ![Ionic](https://img.shields.io/badge/-Ionic-white?style=flat&logo=Ionic)
-     - ![React](https://img.shields.io/badge/-React-blue?style=flat&logo=react)
-     - ![Leaflet](https://img.shields.io/badge/-Leaflet-green?style=flat&logo=leaflet)
-     - ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub)
+## Opa, sou a Júlia! 
+<a href="https://github.com/DiasJulia">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IanJairo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IanJairo&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IanJairo&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IanJairo&layout=compact&langs_count=8&theme=algolia"/>
+<div>
+<div style="display: inline_block"><br>
+  <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
