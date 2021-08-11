@@ -10,7 +10,6 @@
   
   <br>
   
-  <img align="center" alt="Julia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" style="max-width:100%;">
   <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
   <img align="center" alt="Julia-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" style="max-width:100%;">
   <img align="center" alt="Julia-AngularJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" style="max-width:100%;">
