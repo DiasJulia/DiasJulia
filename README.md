@@ -1,4 +1,4 @@
-## Opa, sou a Júlia! 
+## Oii, meu nome é Júlia! 
 <a href="https://github.com/DiasJulia" style="width: 100%;">
   
   <div style="display:flex;justify-content:space-between;width:100%;">
