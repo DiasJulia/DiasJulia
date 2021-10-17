@@ -7,7 +7,7 @@
   </div>
   
 <div>
-  Linguagens que mais uso
+  # Linguagens que mais uso
   <br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
   <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" style="max-width:100%;">
