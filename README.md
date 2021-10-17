@@ -7,7 +7,7 @@
   </div>
   
 <div>
-  
+  [A declinator for latin words](https://github.com/just-dev-creator/angular-latin-declinator)
   <br>
   <img align="center" alt="Julia-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="max-width:100%;">
   <img align="center" alt="Julia-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" style="max-width:100%;">
