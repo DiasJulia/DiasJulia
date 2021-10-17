@@ -31,7 +31,7 @@
 
 <div>
  <a href="https://diasjulia.github.io/Tetroritos/">
-  <img align="center" alt="Tetris da Júlia" height="30" width="40" src="https://diasjulia.github.io/Tetroritos/favicon2.png" style="max-width:100%;">
+  <img align="center" title="Jogo Tetris desenvolvido em React" alt="Jogo Tetris desenvolvido em React" height="25" width="25" src="https://diasjulia.github.io/Tetroritos/favicon2.png" style="max-width:100%;"> 
  </a>
 </div>
   
