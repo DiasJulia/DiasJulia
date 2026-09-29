@@ -9,5 +9,8 @@
  <a href="https://diasjulia.github.io/Tetroritos/">
   <img align="center" title="Jogo Tetris desenvolvido em React" alt="Jogo Tetris desenvolvido em React" height="25" width="25" src="https://diasjulia.github.io/Tetroritos/favicon2.png" style="max-width:100%;"> 
  </a>
+ <a href="https://diasjulia.github.io/ROB311/">
+  Emotion Recognizer
+ </a>
 </div>
   
